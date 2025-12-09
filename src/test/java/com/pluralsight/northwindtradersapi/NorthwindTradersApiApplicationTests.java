@@ -1,4 +1,4 @@
-package com.pluralsight.NorthwindTradersAPI;
+package com.pluralsight.northwindtradersapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

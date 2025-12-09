@@ -1,4 +1,4 @@
-package com.pluralsight.NorthwindTradersAPI;
+package com.pluralsight.northwindtradersapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
